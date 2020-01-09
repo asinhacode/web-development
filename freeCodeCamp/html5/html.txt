@@ -1,0 +1,102 @@
+1.
+
+Heading
+
+<h1>…</h1>
+<h2>…</h2>
+<h3>…</h3>
+<h4>…</h4>
+<h5>…</h5>
+<h6>…</h6>
+
+2
+
+Image 
+
+<img src="https://bit.ly/fcc-relaxing-cat" alt="hi kitty">
+
+3
+
+Anchor 
+
+<a href="http://freecatphotoapp.com"> cat photos </a>
+
+4
+
+Opens new tab
+
+target="_blank"
+
+5
+
+Internal Link
+
+  <a href="#footer" >Jump to Bottom</a>
+
+<footer id="footer">Copyright Cat Photo App</footer>
+
+6
+
+Nest an Anchor Element within a Paragraph
+
+  Here's a <a target="_blank" href="http://freecodecamp.org"> link to freecodecamp.org</a> for you to follow.
+
+6.b
+
+Example of nesting
+
+<p>View more 
+  <a href="http://freecatphotoapp.com" target="_blank">cat photos</a>
+</p>
+
+7
+
+Dead links, waiting till you get it!
+
+<a href = "#"> </a>
+
+8
+
+Turning Images into links
+
+<a href="#">
+  <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+
+9
+
+Unordered List
+
+<ul>
+    <li> Carpets </li>
+    <li> Purr</li>
+    <li> Fish</li>
+    </ul>
+
+9.b
+
+Ordered List
+
+<ol>
+  <li>Garfield</li>
+  <li>Sylvester</li>
+</ol>
+
+10
+
+Input
+
+<input type="text">
+
+10.b
+
+Placeholder in input
+
+<input type="text" placeholder="cat photo URL">
+
+11
+
+Forms : submitting to a server
+
+<form action="/submit-cat-photo">
+  <input type="text" placeholder="cat photo URL">
+  </form>
