@@ -1,0 +1,64 @@
+1.
+
+Comments
+
+// or /* */
+
+2. 
+
+Variable Declaration
+
+ var myName;
+
+3
+
+Variable Assignment
+
+var a = 7;
+var b = a;
+
+4. 
+
+Naming Convention for variable: camelCase
+
+thisIsAVariable
+
+4.b
+
+Examples
+
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+5.
+
+Operators
+
+var value = 10 / 5;
+
+
+5.b
+
+Part 2 (remainder)
+
+10 % 3 = 1
+
+6.
+
+Increment / Decrement
+
+i++; 
+i--;
+
+7
+
+String : use single or double quotes
+
+var name = 'Champ';
+
+7.b
+
+Escaped in quotes : \"
+
+var myStr = "I am a \"double quotes\" string inside \"double quotes\".";
