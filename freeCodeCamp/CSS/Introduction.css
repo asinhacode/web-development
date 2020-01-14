@@ -1,0 +1,19 @@
+/*
+1
+
+Change Color
+*/
+
+<h2 style="color:red;">CatPhotoApp</h2>
+
+/*
+2
+
+Work seperation
+*/
+
+<style>
+  h2{
+    color:red;
+  }
+  </style>
