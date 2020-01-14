@@ -100,3 +100,21 @@ Forms : submitting to a server
 <form action="/submit-cat-photo">
   <input type="text" placeholder="cat photo URL">
   </form>
+
+12
+
+Buttons
+
+<button type="submit">this button submits the form</button>
+
+12.b
+
+Buttons part 2
+
+    <button type="submit">Submit</button>
+
+13
+
+Required !
+
+<input type="text" required> (without it, won't submit)
