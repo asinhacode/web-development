@@ -62,3 +62,32 @@ var name = 'Champ';
 Escaped in quotes : \"
 
 var myStr = "I am a \"double quotes\" string inside \"double quotes\".";
+
+7.c
+
+Escape in examples
+
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+8
+
+String Concatenation
+
+var myStr = "This is the first sentence";
+myStr += "This is the second sentence";
+
+8.b
+
+String Concatenation example
+
+var myName = "Mimi moti";
+var myStr = "My name is " + myName + " and I am well!";
+
+8.c
+
+Variable append with string
+
+var someAdjective = "invigoration";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
+
